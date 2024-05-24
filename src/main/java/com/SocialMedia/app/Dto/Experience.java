@@ -1,4 +1,4 @@
-package com.SocialMedia.app.entities;
+package com.SocialMedia.app.Dto;
 
 public class Experience {
 	private long id;
