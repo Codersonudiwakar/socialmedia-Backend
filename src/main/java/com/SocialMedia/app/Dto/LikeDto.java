@@ -1,6 +1,6 @@
 package com.SocialMedia.app.Dto;
 
-public class Like {
+public class LikeDto {
 	private long id;
 	private long postID;
 	private long likeCount;

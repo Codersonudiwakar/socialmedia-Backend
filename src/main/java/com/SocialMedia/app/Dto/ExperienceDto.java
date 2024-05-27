@@ -1,6 +1,6 @@
 package com.SocialMedia.app.Dto;
 
-public class Experience {
+public class ExperienceDto {
 	private long id;
 	private String username;
 	private String jobTitle;

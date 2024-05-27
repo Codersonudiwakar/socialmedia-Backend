@@ -1,7 +1,6 @@
-package com.SocialMedia.app.entities;
+package com.SocialMedia.app.Dto;
 
-public class Address {
-	
+public class AddressDto {
 	private long id;
 	private String username;
 	private String homeNoArea;

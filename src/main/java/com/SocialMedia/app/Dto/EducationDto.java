@@ -1,6 +1,6 @@
 package com.SocialMedia.app.Dto;
 
-public class Education {
+public class EducationDto {
 	private long id;
 	private String username;
 	private String college;
